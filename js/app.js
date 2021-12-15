@@ -216,7 +216,7 @@ console.log("STAG -" + stag);
 
 
 $('.btn-2').click(function(){     
-    window.location.href = 'https://www.arlekincasino.com/users/sign_up' + stag;
+    window.location.href = 'https://www.arlekincasino.com/en-NZ/users/sign_up' + stag;
 })
 
 
